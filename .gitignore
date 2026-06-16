@@ -1,0 +1,10 @@
+/.idea
+/.vscode
+
+*.http
+*.env.json
+*.DS_Store
+
+bin
+obj
+.reasonix
